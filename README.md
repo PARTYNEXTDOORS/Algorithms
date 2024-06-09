@@ -11,4 +11,4 @@ ____
 
 ## Алгоритмы
 
-* [Массивы]([https://github.com/PARTYNEXTDOORS/LeetCode-Solutions#array](https://github.com/PARTYNEXTDOORS/Algorithms/tree/main/Array))
+* [Массивы](https://github.com/PARTYNEXTDOORS/Algorithms/tree/main/Array)
